@@ -1,0 +1,12 @@
+Git is a version control system that tracks changes in code over time. It’s free, open-source, and widely used in the development community. Git allows developers to save different versions of their code and see the changes made between versions, which is useful for bug tracking and reverting to a previous version of the code if necessary.
+
+To use Git, developers need a Git repository, a place where the code and its history are stored. Repositories can be created locally on a developer’s computer or hosted on a remote server like GitHub.
+
+Git uses several commands to manage repositories and track changes:
+
+git clone: Creates a local copy of a repository hosted on a remote server.
+git add: Tells Git that changes have been made to a file and that these changes should be tracked in the repository.
+git commit: Saves changes to the repository.
+git push: Uploads changes from a local repository to a remote repository.
+git pull: Downloads changes from a remote repository to a local repository.
+Git also allows developers to create branches, separate versions of the code that can be worked on independently. This is useful for working on new features or bug fixes without affecting the main codebase. Once the changes on a branch are complete, they can be merged back into the main branch using the git merge command.
