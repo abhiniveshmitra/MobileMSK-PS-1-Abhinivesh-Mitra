@@ -1,0 +1,3 @@
+[url=https://scratch.mit.edu/projects/1035283944] scratch project[/url]
+
+It's a straightforward maze game where the goal is to navigate from start to finish. The quicker you are, the better, but if you touch the maze walls and respawn, you lose a life. After three lifes, you're out. There's also a treasure that, when collected, reduces the timer by 5 seconds.
